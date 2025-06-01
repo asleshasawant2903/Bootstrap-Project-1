@@ -1,0 +1,180 @@
+*{
+    font-family: "Inter",sans-serif;
+}
+.whatappbtn{
+    border: 1px solid #27ae60;
+    padding: 10px 18px;color: #27ae60;
+    font-size: 16px;
+}
+.whatappbtn:hover{
+       border: 1px solid #27ae60;
+}
+.whatappbtn i{
+color: #27ae60;
+}
+.call{
+    color: white;
+    padding: 10px 18px;
+    background:linear-gradient(to right ,#0acefe,#2699f8);
+}
+.banner_content h1{
+font-size: 52px;
+font-weight: 700;
+
+}
+.banner_content h1 span {
+    background: url("../Image/zigzagline.png") no-repeat bottom
+    ;
+    color: rgba(38, 153, 251, 1);
+}
+.banner_content p{
+    font-size: 20px;
+}
+.banner_content ul{
+    list-style: none;
+}
+.banner_content ul li{
+    font-size: 18px;
+}
+.banner_content ul li i{
+      color: rgba(38, 153, 251, 1);
+}
+.banner_contentbtn button{
+    width: 50%;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: none;
+}
+
+.banner_contentbtn button:first-child{
+    background: linear-gradient(to right,#0acefe,#2699fb);
+}
+.banner_form{
+    padding: 40px;
+}
+.banner_register{
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    outline: none;
+    width: 100%;
+    color: white;
+        background: linear-gradient(to right,#0acefe,#2699fb);
+}
+.banner_form h3{
+    font-weight: 700;
+}
+.banner_form p{
+    font-size: 14px;
+}
+.form-label{
+    font-weight: 500;
+    font-size: 19px;
+}
+.col h2{
+       color: rgba(38, 153, 251, 1);
+}
+ .px-custom {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .box {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 0.1);
+    height: 100%; /* Make all boxes equal height */
+  }
+  .box {
+  height: 100px;
+  width: 380px;
+}
+.banner_couser_btn {
+  background: linear-gradient(to right, #0acefe, #2699fb);
+  padding: 10px 30px;
+  text-align: center;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: 500;
+}
+/* carrer option */
+.text-start{
+    font-size: 10px;
+    font-weight: 700;
+
+}
+.heading_career{
+ font-weight: 700;
+    font-size: 20px;
+}
+.carrer_Para{
+       padding-left: 10px;
+}
+
+ .mt-4{
+    font-weight: 700;
+ }
+ .para_1{
+    font-weight: 500;
+ }
+.card-hover:hover {
+  /* transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease; */
+  border: 4px solid #2699f8;transition: all  ease; 
+}
+
+.digital_courses button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    border: none;
+    outline: none;
+    color: white;
+ background: linear-gradient(to right, #0acefe, #2699fb);
+    padding-right: 25px;
+}
+
+.digital_courses{
+    text-align: center;
+ 
+
+   margin-top: 20px;
+}
+.std_heading{
+    font-weight: 700;
+    text-align: center;
+}
+.std_para{
+    font-size: 15px;
+    text-align: center;
+}
+.courses_heading{
+    color: white;
+
+}
+.para_lorem{
+    color: white;
+}
+.courses_click button{
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    padding-left: 15px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    padding-right: 15px;
+
+}
+.companies_heading{
+    text-align: center;
+    font-weight: 700;
+ margin-bottom: 70px;
+}
+/* faq */
